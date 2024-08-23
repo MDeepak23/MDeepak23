@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdeepak23&" alt="mdeepak23" /></p>
 
-https://github.com/MDeepak23/MDeepak23/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/MDeepak23/MDeepak23/blob/output/github-contribution-grid-snake.svg)
